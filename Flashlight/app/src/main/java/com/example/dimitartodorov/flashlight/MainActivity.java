@@ -1,4 +1,4 @@
-package com.example.dimitartodorov.firsttestapp;
+package com.example.dimitartodorov.flashlight;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
